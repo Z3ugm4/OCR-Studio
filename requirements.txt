@@ -1,0 +1,12 @@
+PyQt6>=6.5
+Pillow>=10.0
+numpy>=1.23
+opencv-python>=4.8.0
+# PaddleOCR + paddlepaddle are pinned loosely — pick the wheel that matches
+# your Python/OS from https://www.paddlepaddle.org.cn/install/quick
+paddleocr>=2.7
+paddlepaddle>=2.5
+
+# Optional backends (install only the ones you use):
+# easyocr
+# mineru-vl-utils[transformers]
