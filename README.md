@@ -9,7 +9,7 @@ A unified, dark-themed PyQt desktop app with four top-level tabs:
 - **Overall Run** chains video extraction, OCR, and dialogue cleaning into one
   guided workflow.
 
-![preview](docs/preview.png)
+![preview](/preview.png)
 
 ---
 
