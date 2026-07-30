@@ -1,4 +1,7 @@
-# ![logo](/logo.png) **Vision Studio**
+<h1>
+  <img src="/logo.png" alt="Vision Studio logo" width="64" height="64" align="absmiddle">
+  Vision Studio
+</h1>
 
 A unified, dark-themed PyQt desktop app with four top-level tabs:
 
