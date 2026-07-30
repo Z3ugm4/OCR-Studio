@@ -195,4 +195,4 @@ from the command line.
 
 ## License
 
-MIT — do whatever you want, no warranty.
+GNU General Public License v2.0
