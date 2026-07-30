@@ -187,6 +187,9 @@ requirements.txt
 README.md
 ```
 
+> [!CAUTION]
+> I Have a 10Gb video card so im not sure if its works with lesser vram
+
 The PyQt tabbed UI and its workers live in `paddle_ocr_studio.py`. The dialogue
 algorithms remain in focused standard-library modules so they can also be used
 from the command line.
