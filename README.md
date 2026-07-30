@@ -1,4 +1,4 @@
-# Vision Studio
+# ![Logo(/logo.png)]Vision Studio
 
 A unified, dark-themed PyQt desktop app with four top-level tabs:
 
